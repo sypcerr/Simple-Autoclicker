@@ -30,5 +30,5 @@ Features customizable click speed, mouse button selection (right-click support),
 MIT License — feel free to use and modify this project.
 
 ---
-
+https://www.virustotal.com/gui/file/49f703e696448bf573d27b952aa06db45885fbaa386b19274c0a14a294c3172a?nocache=1
 Created by [sypcerr](https://github.com/sypcerr)
