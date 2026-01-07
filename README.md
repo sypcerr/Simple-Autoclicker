@@ -4,6 +4,7 @@ A lightweight and easy-to-use Windows AutoClicker built with C# and WinForms (.N
 Features customizable click speed, mouse button selection (right-click support), and a global keybind to toggle clicking.
 
 **Uses less than 10MB Ram and 1% CPU on Idle**
+
 **Uses less than 10.5MB Ram and 1% CPU while Active**
 
 ## Features
